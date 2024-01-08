@@ -7,7 +7,7 @@ const magicalItemCollectHandler = (el) => {
   scene.removeChild(el)
   ++score
   if (score === MAGICAL_ITEMS) {
-    text.setAttribute('value', 'Congrats! You collected all the magical item!!!')
+    text.setAttribute('value', 'Congrats! You collected all the magical items!!!')
     const dumbledore = document.createElement('a-entity')
     dumbledore.setAttribute('gltf-model', '#dumbledore')
     dumbledore.setAttribute('position', '-8 -3 0')
@@ -30,7 +30,7 @@ const magicalItemCollectHandler = (el) => {
     })
     scene.appendChild(dumbledore)
   } else {
-    text.setAttribute('value', `Congrats! You collect a magical item. You have ${MAGICAL_ITEMS - score} more to collect`)
+    text.setAttribute('value', `Congrats! You collect a magical item. You have ${MAGICAL_ITEMS - score} more to collect...`)
   }
 }
 
