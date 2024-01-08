@@ -1,0 +1,11 @@
+Model Information:
+* title:	Harry's Wand
+* source:	https://sketchfab.com/3d-models/harrys-wand-92c85371711a4100ad6db120ca831eb2
+* author:	Charlie Tinley (https://sketchfab.com/Tnkii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Harry's Wand" (https://sketchfab.com/3d-models/harrys-wand-92c85371711a4100ad6db120ca831eb2) by Charlie Tinley (https://sketchfab.com/Tnkii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

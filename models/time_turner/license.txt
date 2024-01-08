@@ -1,0 +1,11 @@
+Model Information:
+* title:	Time Turner (Harry Potter)
+* source:	https://sketchfab.com/3d-models/time-turner-harry-potter-4b24255184ed43a6b0cdbf4c163e0a2a
+* author:	ezgi bakim (https://sketchfab.com/ezgibakim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Time Turner (Harry Potter)" (https://sketchfab.com/3d-models/time-turner-harry-potter-4b24255184ed43a6b0cdbf4c163e0a2a) by ezgi bakim (https://sketchfab.com/ezgibakim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
