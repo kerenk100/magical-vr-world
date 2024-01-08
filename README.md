@@ -2,7 +2,7 @@
 VR Magical World created with A-Frame. 
 
 Collect the magical items to get a surprise invitation 😊 https://kerenk100.github.io/magical-vr-world/
-(This game was created for a talk and I used this game to invite my best friend to meet me for pancakes at our favourite place)
+(This game was created for a talk and I used this game to invite my best friends to meet me for pancakes at our favourite place)
 
 Credits to the creators of the models I used, all licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/): 
 "Harry Potter Suitcase" (https://skfb.ly/6ZPTs) by Alizée BOURBON
