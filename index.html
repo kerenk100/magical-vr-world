@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-environment-component/dist/aframe-environment-component.min.js"></script>
+</head>
+<body>
+  <a-scene>
+    <a-assets>
+      <img id="bg" src="images/HP.png">
+      <a-asset-item id="harrys_suitcase" src="./models/harrys_suitcase/scene.gltf"></a-asset-item>
+      <a-asset-item id="elder_wand" src="./models/elder_wand/scene.gltf"></a-asset-item>
+      <a-asset-item id="time_turner" src="./models/time_turner/scene.gltf"></a-asset-item>
+      <a-asset-item id="dumbledore" src="./models/dumbledore/scene.gltf"></a-asset-item>
+      <a-asset-item id="harrys_wand" src="./models/harrys_wand/scene.gltf"></a-asset-item>
+      <a-asset-item id="pancakes" src="./models/pancakes/scene.gltf"></a-asset-item>
+    </a-assets>
+    <a-camera>
+      <a-cursor gltf-model="#harrys_wand" scale="0.1 0.1 0.1"></a-cursor>
+      <a-text value="Welcome to the magical world! Collect all magical items to get a surprise!" position="-4 2 -3"></a-text>
+    </a-camera>
+    <a-sky src="#bg"></a-sky>
+    <a-gltf-model src="#harrys_suitcase" position="-1 -2 -3" scale="0.03 0.03 0.03"></a-gltf-model>
+    <a-gltf-model id="timeTurner" src="#time_turner" position="1 1 -5" scale="0.008 0.008 0.008" animation="property: rotation; to: 0 360 0; loop: true"></a-gltf-model>
+    <a-gltf-model id="elderWand" src="#elder_wand" position="-8 2 -4" scale="0.5 0.5 0.5" rotation="0 240 0"></a-gltf-model>
+  </a-scene>
+<script src="game.js"></script>
+</body>
+</html>
